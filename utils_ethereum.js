@@ -1,4 +1,3 @@
-// utils/ethereum.js
 import { ethers } from "ethers";
 
 // Modern dapp browsers...
